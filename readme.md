@@ -1,6 +1,6 @@
 # Seascouter's Advent of Code 2022 Solutions
 
-* hopefully completed this year lol *
+*hopefully completed this year lol*
 
 - [x] Day 1
 - [x] Day 2
